@@ -1,1 +1,16 @@
 sql/desktop.ini
+requirements.txt
+data/airports.csv
+data/desktop.ini
+data/readme.txt
+data/processed/.gitkeep
+data/processed/desktop.ini
+data/processed/flight_df_04_01.csv
+data/processed/flight_df_04_02.csv
+data/raw/.gitkeep
+data/raw/aircraft.csv
+data/raw/airport_list.csv
+data/raw/airport_weather.csv
+data/raw/desktop.ini
+.gitignore
+data/raw/flight.csv
